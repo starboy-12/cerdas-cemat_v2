@@ -1,0 +1,8 @@
+{
+  "name": "Cerdas Cermat 3D",
+  "description": "Perpustakaan belajar digital interaktif dengan pengalaman buku 3D untuk jenjang TK, SD, SMP, dan SMA berbasis Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
